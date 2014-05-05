@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/">
+    <file>graph.svg</file>
+    <file>conectar.svg</file>
+    <file>edit.svg</file>
+    <file>exit.svg</file>
+  </qresource>
+</RCC>
